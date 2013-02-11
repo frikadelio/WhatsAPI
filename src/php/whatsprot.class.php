@@ -4,8 +4,8 @@ require "func.php";
 require "rc4.php";
 class WhatsProt 
 {
-    protected $_phoneNumber;
-    protected $_imei;
+    protected $_+31619927155;
+    protected $_351710052543138;
     protected $_name;
 
     protected $_whatsAppHost = "c.whatsapp.net";
